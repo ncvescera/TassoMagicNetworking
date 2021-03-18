@@ -22,7 +22,7 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"136\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Edificio B</text></svg>",
-                "x": -888,
+                "x": -964,
                 "y": 185,
                 "z": 2
             },
@@ -40,8 +40,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"138\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Edificio D</text></svg>",
-                "x": 9,
-                "y": -517,
+                "x": 85,
+                "y": -705,
                 "z": 2
             },
             {
@@ -49,8 +49,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"136\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Edificio C</text></svg>",
-                "x": 17,
-                "y": 182,
+                "x": 55,
+                "y": 166,
                 "z": 2
             },
             {
@@ -58,8 +58,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"135\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Edificio E</text></svg>",
-                "x": 473,
-                "y": 6,
+                "x": 581,
+                "y": 139,
                 "z": 2
             },
             {
@@ -130,8 +130,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"91\" height=\"39\"><text font-family=\"Bitstream Charter\" font-size=\"24.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">RETE 3</text></svg>",
-                "x": -53,
-                "y": -141,
+                "x": -104,
+                "y": -127,
                 "z": 2
             },
             {
@@ -139,8 +139,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"91\" height=\"39\"><text font-family=\"Bitstream Charter\" font-size=\"24.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">RETE 4</text></svg>",
-                "x": -378,
-                "y": -237,
+                "x": -383,
+                "y": -335,
                 "z": 2
             },
             {
@@ -165,9 +165,9 @@
                 "drawing_id": "a58f287a-e143-49e3-8570-078e1eb55871",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"167\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.2.0</text></svg>",
-                "x": -909,
-                "y": 238,
+                "svg": "<svg width=\"224\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.2.0 /24</text></svg>",
+                "x": -973,
+                "y": 240,
                 "z": 2
             },
             {
@@ -183,7 +183,7 @@
                 "drawing_id": "391d8722-54a6-4971-bc15-3b7899dc23b0",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"167\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.1.0</text></svg>",
+                "svg": "<svg width=\"224\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.1.0 /24</text></svg>",
                 "x": -1035,
                 "y": -591,
                 "z": 2
@@ -193,7 +193,7 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"50\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.24</text></svg>",
-                "x": -743,
+                "x": -649,
                 "y": -566,
                 "z": 2
             },
@@ -201,9 +201,9 @@
                 "drawing_id": "5460bdba-0efa-40d1-9732-2790b13f9a27",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"167\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.3.0</text></svg>",
-                "x": 17,
-                "y": 219,
+                "svg": "<svg width=\"224\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.3.0 /24</text></svg>",
+                "x": 52,
+                "y": 215,
                 "z": 2
             },
             {
@@ -211,8 +211,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"50\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.24</text></svg>",
-                "x": 41,
-                "y": 433,
+                "x": -24,
+                "y": 431,
                 "z": 2
             },
             {
@@ -231,6 +231,96 @@
                 "svg": "<svg width=\"75\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.69.6</text></svg>",
                 "x": -109,
                 "y": 147,
+                "z": 2
+            },
+            {
+                "drawing_id": "8cdb4446-bda4-4e75-b000-81d27e90a3f1",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"224\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.4.0 /24</text></svg>",
+                "x": 76,
+                "y": -657,
+                "z": 2
+            },
+            {
+                "drawing_id": "ef9dabfd-a86c-495c-8ae6-6610af74ecea",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"50\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.24</text></svg>",
+                "x": 42,
+                "y": -560,
+                "z": 2
+            },
+            {
+                "drawing_id": "6fa09ed5-04e9-4318-a941-ab5e41da4504",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"75\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.69.9</text></svg>",
+                "x": -96,
+                "y": 39,
+                "z": 2
+            },
+            {
+                "drawing_id": "854096cf-42dc-41fd-a624-0fd035b9433e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"92\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.69.10</text></svg>",
+                "x": -112,
+                "y": -230,
+                "z": 2
+            },
+            {
+                "drawing_id": "a27e46e3-5be7-435a-8f28-a6bd28229805",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"92\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.69.17</text></svg>",
+                "x": -637,
+                "y": -345,
+                "z": 2
+            },
+            {
+                "drawing_id": "eb830ddb-0fe3-4313-8719-62efe8208a17",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"92\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.69.18</text></svg>",
+                "x": -153,
+                "y": -347,
+                "z": 2
+            },
+            {
+                "drawing_id": "825286f8-594d-4ac6-ab29-7a095681743d",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"224\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">192.168.5.0 /24</text></svg>",
+                "x": 580,
+                "y": 185,
+                "z": 2
+            },
+            {
+                "drawing_id": "b4498d1d-a5ce-42a5-967b-f1334a687bc2",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"92\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.69.34</text></svg>",
+                "x": 351,
+                "y": 96,
+                "z": 2
+            },
+            {
+                "drawing_id": "e5ed75b9-418c-43da-8dde-c63be8fa46c7",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"92\" height=\"43\"><text font-family=\"Bitstream Charter\" font-size=\"28.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.69.33</text></svg>",
+                "x": 61,
+                "y": -261,
+                "z": 2
+            },
+            {
+                "drawing_id": "630b8c1a-8859-422a-87b9-8a163a294f64",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"91\" height=\"39\"><text font-family=\"Bitstream Charter\" font-size=\"24.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">RETE 5</text></svg>",
+                "x": 279,
+                "y": -105,
                 "z": 2
             }
         ],
@@ -882,8 +972,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -813,
-                "y": -556,
+                "x": -719,
+                "y": -566,
                 "z": 1
             },
             {
@@ -1071,8 +1161,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -792,
-                "y": -406,
+                "x": -720,
+                "y": -432,
                 "z": 1
             },
             {
@@ -1214,8 +1304,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -179,
-                "y": -483,
+                "x": -45,
+                "y": -571,
                 "z": 1
             },
             {
@@ -1294,8 +1384,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -179,
-                "y": -312,
+                "x": -49,
+                "y": -433,
                 "z": 1
             },
             {
@@ -1351,8 +1441,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "736b7ed9-78ad-4af7-9758-fc701cca4da4",
                 "width": 66,
-                "x": -96,
-                "y": -220,
+                "x": -46,
+                "y": -312,
                 "z": 1
             },
             {
@@ -1381,7 +1471,7 @@
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
                 "x": -34,
-                "y": 422,
+                "y": 362,
                 "z": 1
             },
             {
@@ -1460,8 +1550,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -39,
-                "y": 291,
+                "x": -35,
+                "y": 251,
                 "z": 1
             },
             {
@@ -1546,8 +1636,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 253,
-                "y": 158,
+                "x": 466,
+                "y": 386,
                 "z": 1
             },
             {
@@ -1626,8 +1716,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 373,
-                "y": 153,
+                "x": 461,
+                "y": 292,
                 "z": 1
             },
             {
@@ -1683,8 +1773,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "736b7ed9-78ad-4af7-9758-fc701cca4da4",
                 "width": 66,
-                "x": 370,
-                "y": -56,
+                "x": 458,
+                "y": 111,
                 "z": 1
             },
             {
